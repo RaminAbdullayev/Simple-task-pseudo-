@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 70%;
+    height: 20em;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: blueviolet;
+}
+
+div:hover {
+    opacity: 0.6;
+}

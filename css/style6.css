@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(255, 177, 255);
+}
+
+button {
+    background-color: white;
+    border: none;
+    width: 140px;
+    height: 50px;
+    margin-left: 50%;
+    margin-top: 20%;
+}
+
+button:hover {
+    background-color: rgb(137, 190, 137);
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p:nth-child(1) {
+    margin: 30px;
+    color: green;
+    font-size: 20px;
+}
+
+label {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.in1 {
+    margin-bottom: 15px;
+}
+
+.in2 {
+    margin-left: 11px;
+}
+
+.in3 {
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+input:hover {
+    background-color: grey;
+}
